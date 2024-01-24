@@ -7,7 +7,7 @@ Introducing our Hate Speech Detection Model for Urdu – a groundbreaking soluti
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
+- [Model used](#model-used)
 - [Usage](#usage)
 - [Evaluation](#evaluation)
 - [Contributors](#contributors)
@@ -35,7 +35,7 @@ For the Urdu Hate Speech Detection, we applied Classic Machine Learning (ML) mod
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cv-based-geolocation.git
+  git clone https://github.com/your-username/cv-based-geolocation.git](https://github.com/FarazSheikh16/Urdu-Hate-Speech-Detection.git
    ```
 2. Install the required dependencies
 3. Run the specific Notebook you want to use
