@@ -27,17 +27,7 @@ Our comprehensive dataset, derived from YouTube comments and feedback on E-shopp
 
 ## Model Architecture
 
-For the Urdu Hate Speech Detection, we employ a combination of Classic Machine Learning (ML) models and Long Short-Term Memory (LSTM) networks, tailored to address the nuances of natural language processing.
-
-### Classic ML Models
-
-Our approach involves utilizing well-established classic ML models, such as Support Vector Machines (SVM), Random Forests, and Naive Bayes. These models are trained on carefully engineered features extracted from the Urdu text, allowing them to effectively discern patterns associated with hate speech.
-
-### LSTM Network
-
-In addition to classic ML models, we leverage the power of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) well-suited for sequence modeling. The LSTM network is trained on the sequential nature of language, capturing dependencies and contextual information within the Urdu text. This enables our model to grasp the intricacies of hate speech in a more dynamic and context-aware manner.
-
-This hybrid approach, combining the strengths of classic ML models and LSTM networks, enhances the robustness of our Hate Speech Detection model for Urdu. It allows for a more comprehensive understanding of the language, ensuring effective identification of offensive content and contributing to a safer online environment.
+For the Urdu Hate Speech Detection, we applied Classic Machine Learning (ML) models  and Long Short-Term Memory (LSTM)
 
 
 ## Usage
