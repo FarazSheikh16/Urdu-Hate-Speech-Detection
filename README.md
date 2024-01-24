@@ -47,5 +47,6 @@ The model is evaluated on test data using different classic ML models and also u
 
 ## Contributors
 
-- [Muhammad Jibran Bin Saleem](https://github.com/jibranbinsaleem)
 - [Ahmad Faraz Sheikh](https://github.com/FarazSheikh16)
+- [Muhammad Jibran Bin Saleem](https://github.com/jibranbinsaleem)
+
