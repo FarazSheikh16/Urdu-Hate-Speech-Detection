@@ -35,7 +35,7 @@ For the Urdu Hate Speech Detection, we applied Classic Machine Learning (ML) mod
 1. Clone the repository:
 
    ```bash
-  [git clone https://github.com/your-username/cv-based-geolocation.git](https://github.com/FarazSheikh16/Urdu-Hate-Speech-Detection.git)
+  git clone https://github.com/your-username/cv-based-geolocation.git]
    ```
 2. Install the required dependencies
 3. Run the specific Notebook you want to use
