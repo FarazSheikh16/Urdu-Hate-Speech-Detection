@@ -1,6 +1,7 @@
-# Computer Vision based Geolocation
+# Urdu Hate Speech Detection
 
-This project implements a computer vision-based geolocation system that utilizes deep learning techniques and transfer learning with the ResNet architecture. The system aims to accurately predict the longitude and latitude coordinates of a location based on input images, providing a powerful tool for geolocation and mapping applications.
+
+Introducing our Hate Speech Detection Model for Urdu – a groundbreaking solution designed to combat offensive content on democratic platforms. Built to transcend borders and handle vast data volumes, this model focuses on the challenges of low-resource languages, specifically addressing the pervasive issue of hate speech in South Asia. Join us in creating a safer digital space through advanced natural language processing techniques and continuous community-driven improvements.
 
 ## Table of Contents
 
@@ -14,21 +15,30 @@ This project implements a computer vision-based geolocation system that utilizes
 ## Introduction
 
 
-Hate speech is a pervasive issue cutting across borders and languages. It increases harmful, offensive behavior and negative phenomena on democratic platforms . Manual Filtering is not possible due to vast volume of data. Challenges in low-resource regional languages.
-Urdu is widely used in South Asia.
-More opportunity for making the results better.
-![image](https://github.com/FarazSheikh16/Urdu-Hate-Speech-Detection/assets/95575428/4e83b0e6-4dca-4ba5-9d10-e75a1c1b1761)
- So, build this model to detect the hate and offense in text/sentences.
+Hate speech is an alarming and widespread issue that transcends borders and languages, fostering harmful and offensive behavior on democratic platforms. The sheer volume of data circulating online makes manual filtering an impractical solution, particularly when dealing with low-resource regional languages. In South Asia, Urdu, a language with extensive usage, faces its own set of challenges in combating hate speech effectively.
+
+To address this pressing concern, we present our Hate Speech Detection Model for Urdu. This repository houses a robust and scalable solution designed to identify hate speech and offensive content within text and sentences. By leveraging advanced natural language processing techniques, our model aims to contribute significantly to the mitigation of negative phenomena on democratic platforms where the impact of hate speech is most pronounced.
 
 
 
 ## Dataset
 
-The dataset used in this is extracted from youtube comments and some from E-shopping sies feedback and all files are present in this repository 
+Our comprehensive dataset, derived from YouTube comments and feedback on E-shopping sites, is meticulously curated and conveniently available in this repository.
 
 ## Model Architecture
 
-The model architecture used for computer vision based geolocation is transfer learning. We Mobile net and fine tuned by adding a global average pooling layer and a fully connected layer with the desired number of output units
+For the Urdu Hate Speech Detection, we employ a combination of Classic Machine Learning (ML) models and Long Short-Term Memory (LSTM) networks, tailored to address the nuances of natural language processing.
+
+### Classic ML Models
+
+Our approach involves utilizing well-established classic ML models, such as Support Vector Machines (SVM), Random Forests, and Naive Bayes. These models are trained on carefully engineered features extracted from the Urdu text, allowing them to effectively discern patterns associated with hate speech.
+
+### LSTM Network
+
+In addition to classic ML models, we leverage the power of Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN) well-suited for sequence modeling. The LSTM network is trained on the sequential nature of language, capturing dependencies and contextual information within the Urdu text. This enables our model to grasp the intricacies of hate speech in a more dynamic and context-aware manner.
+
+This hybrid approach, combining the strengths of classic ML models and LSTM networks, enhances the robustness of our Hate Speech Detection model for Urdu. It allows for a more comprehensive understanding of the language, ensuring effective identification of offensive content and contributing to a safer online environment.
+
 
 ## Usage
 
